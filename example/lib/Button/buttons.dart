@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_awesome_buttons/flutter_awesome_buttons.dart';
 
 class Buttons extends StatefulWidget {
   @override
